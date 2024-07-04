@@ -1,0 +1,57 @@
+.parent {
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 50px;
+}
+i {
+    color: orange;
+}
+.p {
+    padding-left: 140px;
+    padding-top: 10px;
+}
+.b1 {
+    color: orange;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.button {
+    background-image: linear-gradient(to right,yellow,orange,rgb(255, 115, 0));
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+}
+.parent1 {
+    display: flex;
+    justify-content: space-between;
+    height: 140px;
+}
+.b2 {
+    width: 400px;
+}
+.q {
+    padding-left: 170px;
+    font-style: italic;
+}
+.parent2 {
+    background: url(./Без\ названия\ \(13\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 600px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.button1 {
+    width: 140px;
+    height: 30px;
+    border-radius: 50px;
+}
+.parent3 {
+    text-align: center;
+    font-size: 24px;
+}
